@@ -2,7 +2,7 @@
 layout: post
 title: Funzone logo
 description: branding practice
-image: assets/images/colage.JPG
+image: assets/images/collage.JPG
 ---
 
 ## Interesting, innit
