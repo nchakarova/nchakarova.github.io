@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Funzone logo
-description: branding practice
+title: Card making
+description: Card making
 image: assets/images/card3.jpeg
 ---
 
-## Interesting, innit
+## Card making
 
-And it goes on and on and on
+Card making
